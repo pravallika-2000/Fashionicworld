@@ -5,8 +5,9 @@ This is a web based application developed for Fashion of Different People With D
 
 ### This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-
-*Project Link* -https://fashionicworld.azurewebsites.net
+*project demo vedio*-https://youtu.be/ucm-pkTDbFM
+*Project Link*      - https://github.com/pravallika-2000/Fashionicworld.git
+*Project Demo URL*  - https://github.com/pravallika-2000/Fashionicworld.git
 
 ## Features and Functionalities 😃
 
@@ -46,11 +47,17 @@ This is a web based application developed for Fashion of Different People With D
 ![image](https://user-images.githubusercontent.com/118828790/204980430-76d6f693-55f4-4d1a-92de-77623ac1de5d.png)
 ![image](https://user-images.githubusercontent.com/118828790/204980474-ea2f7a81-7b38-42d5-bb03-1988040ab93e.png)
 
+
+ Microsoft Azure Portal
+![image](https://user-images.githubusercontent.com/118828790/209666698-7be47ce8-6db8-4f80-9ba2-a6a965da2019.png)
+
+
 ## Primary Azure Technology used
-1. Microsoft Azure Portal
-![image](https://user-images.githubusercontent.com/118828790/204980825-50423759-250d-453d-a282-f1eb060abedf.png)
-2. App Service and Web Apps
+1. App Service and Web Apps
 ![image](https://user-images.githubusercontent.com/118828790/204980883-76674da7-0104-4bd4-8d30-64c07cf4475f.png)
+2.Static Web App
+![image](https://user-images.githubusercontent.com/118828790/209666819-229a8055-0dd9-4ec8-bb44-281fb81b5d78.png)
+
 ## Tech Stack
 - Microsoft Azure
 - HTML
