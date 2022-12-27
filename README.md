@@ -6,7 +6,9 @@ This is a web based application developed for Fashion of Different People With D
 ### This web based application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 *project demo vedio*-https://youtu.be/ucm-pkTDbFM
+
 *Project Link*      - https://github.com/pravallika-2000/Fashionicworld.git
+
 *Project Demo URL*  - https://github.com/pravallika-2000/Fashionicworld.git
 
 ## Features and Functionalities 😃
